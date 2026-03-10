@@ -1,6 +1,4 @@
 ## Hi theree ##
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on an ai agent project
 - 🌱 I’m currently learning AI prompt engineering
 - 🤔 I’m looking for help with AI development
